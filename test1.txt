@@ -2,4 +2,4 @@ Name: Ahsan Aakib
 Birth date: june 2
 SSC: 2010
 HSC: 2012
-
+BSc: 2017
